@@ -1,0 +1,7 @@
+RECEIPT
+
+Original Price: R100.0
+VAT: R15.0
+Discount: R10.0
+Final Amount: R105.0
+Timestamp: 2026-05-07 14:41:51.373895
